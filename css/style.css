@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.mar {
+  margin-top: 94px;
+}
+.p {
+  margin-top: 28px;
+}
+.foto1 {
+  margin-top: 66px;
+}
+.but1 {
+  border-radius: 30px;
+  background: #6f2cff;
+  color: #fff;
+  margin-top: 76px;
+  width: 189px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.but2 {
+  border-radius: 30px;
+  background: #fff;
+  box-shadow: 0px 0px 0px 0px #6f2cff;
+  height: 40px;
+  width: 187px;
+  flex-shrink: 0;
+  margin-left: 22px;
+}
+.text1 {
+  margin-top: 189px;
+}
+.foto2 {
+  margin-top: 70.25px;
+}
+.text2 {
+  margin-top: 25px;
+}
+.text3 {
+  width: 250px;
+  text-align: center;
+  color: #6f2cff;
+  inline-size: 300px;
+}
+.img1 {
+  margin-right: 40px;
+}
+.img2 {
+  margin-right: 40px;
+}
+.div1 {
+  margin-top: 70.25px;
+}
+.img3 {
+  margin-right: 225px;
+}
+
+.img4 {
+  margin-left: px;
+}
+.img5 {
+  margin-left: 250px;
+}
+.div2 {
+  margin-top: 25px;
+}
+.div6 {
+  margin-top: 25px;
+}
+.foto8 {
+  margin-right: 200px;
+}
+.foto9 {
+}
+.foto10 {
+  margin-left: 160px;
+}
+.div7 {
+  background-color: #f5f5f5;
+  display: block;
+}
+
+.h2 {
+  display: inline;
+}
+.oq {
+  margin-top: 31px;
+  color: white;
+  display: inline-block;
+  width: 360px;
+  height: 170px;
+  border-radius: 10px;
+}
+.p {
+}
+.icon2 {
+  margin-left: 32.14px;
+  background-color: #17002e;
+  color: white;
+  display: inline-block;
+  width: 360px;
+  height: 170px;
+  border-radius: 10px;
+}
+.fash {
+  display: inline;
+}
+.icon3 {
+  display: inline-block;
+  margin-left: 32.14px;
+  background-color: #17002e;
+  color: white;
+
+  width: 360px;
+  height: 170px;
+  border-radius: 10px;
+}
+.luxury {
+  display: inline;
+}
+.mar {
+  margin-top: 33px;
+}
+.icon4 {
+  margin-left: 32.14px;
+  background-color: #17002e;
+  color: white;
+  display: inline-block;
+  width: 360px;
+  height: 170px;
+  border-radius: 10px;
+}
+.i4 {
+  display: inline;
+}
+.icon5 {
+  margin-left: 32.14px;
+  background-color: #17002e;
+  color: white;
+  display: inline-block;
+  width: 360px;
+  height: 170px;
+  border-radius: 10px;
+}
+.i5 {
+  margin-top: 33px;
+}
+.tra {
+  display: inline;
+}
+.icon6 {
+  margin-left: 32.14px;
+  background-color: #17002e;
+  color: white;
+  display: inline-block;
+  width: 360px;
+  height: 170px;
+  border-radius: 10px;
+}
+.onl {
+  display: inline;
+}
